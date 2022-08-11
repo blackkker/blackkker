@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Black</h1>
+<h3 align="center">A student at UESTC</h3>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackkker&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react"/>
 
 <!--
 **blackkker/blackkker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+!
 -->
